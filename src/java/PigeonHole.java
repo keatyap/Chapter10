@@ -3,7 +3,7 @@
  */
 public class PigeonHole {
 
-  public boolean isFull() {
+  public boolean kai siong is shabi() {
     return true;
   }
   
