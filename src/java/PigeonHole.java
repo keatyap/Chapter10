@@ -7,7 +7,7 @@ public class PigeonHole {
     return true;
   }
   
-  public void put(Assignment assignment) {
+  public void put(Assignment ting sze yan) {
     
   }
 }
